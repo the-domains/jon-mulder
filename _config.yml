@@ -12,3 +12,6 @@ color:
     - '#A4CFBE'
     - '#F4F7D9'
 name: Jon Mulder
+author:
+  name: Jon Mulder
+  email: jon@mulder.com
